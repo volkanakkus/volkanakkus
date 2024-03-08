@@ -4,11 +4,11 @@ It's always a pleasure to develop for/with [Nuxt](https://github.com/nuxt/) & [V
 
 > [!TIP]  
 > **Check out the latest npm packages I've published as a [Nuxt Module:](https://github.com/nuxt/modules)**
-> ### [Nuxt TradingView:](https://github.com/volkanakkus/nuxt-tradingview/)  
+> > ### [Nuxt TradingView:](https://github.com/volkanakkus/nuxt-tradingview/)  
 >Use the TradingView Widgets in your Nuxt 3 Application    
 >
 >[![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
->### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
+> > ### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
 >A countdown module for multi purpose usage written for Nuxt 3.  
 >  
 >[![npm version][countdown-npm-version-src]][countdown-npm-version-href] [![npm downloads][countdown-npm-downloads-src]][countdown-npm-downloads-href]
