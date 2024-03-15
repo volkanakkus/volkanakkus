@@ -1,6 +1,7 @@
 ### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25></a>
-I'm Volkan, working passionately as a JavaScript Developer. 
-It's always a pleasure to develop for/with [Nuxt](https://github.com/nuxt/) & [Vue.js](https://github.com/vuejs) to me 💚
+I'm Volkan, working passionately as a JavaScript Developer in Croatia 🇭🇷 \
+It's always a pleasure to develop for/with [Nuxt](https://github.com/nuxt/) & [Vue.js](https://github.com/vuejs) to me 💚 \
+&nbsp; 
 
 > [!TIP]  
 > **Check out the latest npm packages I've published as a [Nuxt Module:](https://github.com/nuxt/modules)**
