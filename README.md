@@ -5,7 +5,7 @@
 > [!TIP]  
 > **Check out the latest npm packages I've published as a [Nuxt Module:](https://github.com/nuxt/modules)**
 > > ### [Nuxt TradingView:](https://nuxt.com/modules/tradingview/)  
-> Use the TradingView Widgets in your Nuxt 3 Application    
+> Use the TradingView Widgets in your Nuxt Application    
 >
 >  [![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
 > > ### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
