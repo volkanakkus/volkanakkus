@@ -5,7 +5,7 @@
 > [!TIP]  
 > **Check out the latest npm packages I've published as a [Nuxt Module:](https://github.com/nuxt/modules)**
 > > ### [Nuxt TradingView:](https://nuxt.com/modules/tradingview/)  
-> > **`Officially listed on Nuxt Modules`**
+> > **`Officially listed on nuxt.com/modules`**
 >
 > Use the TradingView Widgets in your Nuxt Application    
 >
