@@ -1,3 +1,14 @@
 {
-  "text": "This is the text that I want to show"
+  "text": "This is the text that I want to show",
+  "options": [
+    {
+      "link": "https://twitter.com/volkanakks",
+      "text:": "🐦 Check my old bird new X"
+    },
+    {
+      "link": "https://linkedin.com/in/volkanakks",
+      "text:": "💻 Here's my LinkedIn"
+    }
+  ],
+  "optionLeaveText": "Ok, see you 👋"
 }
