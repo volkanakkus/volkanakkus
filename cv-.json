@@ -1,5 +1,6 @@
 {
   "text": "This is the text that I want to show",
+  "promptText": "See more about me:",
   "options": [
     {
       "link": "https://twitter.com/volkanakks",
