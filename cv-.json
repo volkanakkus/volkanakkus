@@ -3,11 +3,11 @@
   "options": [
     {
       "link": "https://twitter.com/volkanakks",
-      "text:": "🐦 Check my old bird new X"
+      "text": "🐦 Check my old bird new X"
     },
     {
       "link": "https://linkedin.com/in/volkanakks",
-      "text:": "💻 Here's my LinkedIn"
+      "text": "💻 Here's my LinkedIn"
     }
   ],
   "optionLeaveText": "Ok, see you 👋"
