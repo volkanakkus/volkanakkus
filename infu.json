@@ -1,15 +1,15 @@
 {
   "text": "This is the text that I want to show",
-  "promptText": "See more about me:",
+  "promptText": "Learn more about me:",
   "options": [
     {
       "link": "https://twitter.com/volkanakks",
-      "text": "🐦 Check my old bird new X"
+      "text": "🐦 Check out my X (RIP Twitter)"
     },
     {
       "link": "https://linkedin.com/in/volkanakks",
       "text": "💻 Here's my LinkedIn"
     }
   ],
-  "optionLeaveText": "Ok, see you 👋"
+  "optionLeaveText": "👋 Alright, see you!"
 }
