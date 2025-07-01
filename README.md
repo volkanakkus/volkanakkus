@@ -10,14 +10,17 @@
 > Use the TradingView Widgets in your Nuxt Application    
 >
 >  [![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
+> > ### [Nuxt Lottie:](https://nuxt.com/modules/lottie/)  
+> > **`Officially listed on nuxt.com/modules`**
+>
+>Easily integrate Lottie animations into your Nuxt project.
+>  
+> [![npm version][lottie-npm-version-src]][lottie-npm-version-href] [![npm downloads][lottie-npm-downloads-src]][lottie-npm-downloads-href]
 > > ### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
 >A countdown module for multi purpose usage written for Nuxt 3  
 >  
 >[![npm version][countdown-npm-version-src]][countdown-npm-version-href] [![npm downloads][countdown-npm-downloads-src]][countdown-npm-downloads-href]
-> > ### [Nuxt Lottie:](https://github.com/volkanakkus/nuxt-lottie/)  
->Easily integrate Lottie animations into your Nuxt project.
->  
-> [![npm version][lottie-npm-version-src]][lottie-npm-version-href] [![npm downloads][lottie-npm-downloads-src]][lottie-npm-downloads-href]
+
 
 
 <p><a href="https://www.twitter.com/volkanakks" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/volkanakks" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://volkanakkus.com/" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=volkanakkus" height=25/> </a>
