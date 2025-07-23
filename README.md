@@ -7,13 +7,13 @@
 > > ### [Nuxt TradingView:](https://nuxt.com/modules/tradingview/)  
 > > **`Officially listed on nuxt.com/modules`**
 >
-> Use the TradingView Widgets in your Nuxt Application    
+> Use the TradingView Widgets in your Nuxt application    
 >
 >  [![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
 > > ### [Nuxt Lottie:](https://nuxt.com/modules/lottie/)  
 > > **`Officially listed on nuxt.com/modules`**
 >
->Easily integrate Lottie animations into your Nuxt project.
+>Easily integrate Lottie animations into your Nuxt project
 >  
 > [![npm version][lottie-npm-version-src]][lottie-npm-version-href] [![npm downloads][lottie-npm-downloads-src]][lottie-npm-downloads-href]
 > > ### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
