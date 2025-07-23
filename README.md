@@ -17,7 +17,7 @@
 >  
 > [![npm version][lottie-npm-version-src]][lottie-npm-version-href] [![npm downloads][lottie-npm-downloads-src]][lottie-npm-downloads-href]
 > > ### [Nuxt Countdown:](https://github.com/volkanakkus/nuxt-countdown/)  
->A countdown module for multi purpose usage written for Nuxt 3  
+>A countdown module for multi purpose usage written for Nuxt 
 >  
 >[![npm version][countdown-npm-version-src]][countdown-npm-version-href] [![npm downloads][countdown-npm-downloads-src]][countdown-npm-downloads-href]
 
