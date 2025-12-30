@@ -1,15 +1,18 @@
 ### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25></a>
-**I'm Volkan, working passionately as a JavaScript Developer in Croatia 🇭🇷** \
-**It's always a pleasure to develop for/with [Nuxt](https://github.com/nuxt/) & [Vue.js](https://github.com/vuejs) to me 💚**
+**It's Volkan, professional JavaScript developer based in Croatia 🇭🇷** 
 
+- **10+ years (~2014 - Present) - JavaScript Developer**
+  - **Frontend-focused** full-stack developer, with a **[Vue.js](https://github.com/vuejs)** & **[Nuxt](https://github.com/nuxt/)** expertise  (*It's always a pleasure 💚*)
+  - **Open source contributor**, mostly for **Nuxt [(see more)](https://nuxt.com/modules?q=volkanakkus)**
+
+- **2+ years (~2023 - Present) - LLM Code Refiner, Reviewer, Prompter**
+  - Let LLMs handle **80-85%** of the work, then **I review, correct and shape the remaining**
+  - **Achieved through** prompt engineering that speeds up my dev **by 5x** 🚀
+
+​​
+​​
 > [!TIP]  
 > **Check out the latest npm packages I've published as a [Nuxt Module:](https://github.com/nuxt/modules)**
-> > ### [Nuxt TradingView:](https://nuxt.com/modules/tradingview/)  
-> > **`Officially listed on nuxt.com/modules`**
->
-> Use the TradingView Widgets in your Nuxt application    
->
->  [![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
 > > ### [Nuxt Lottie:](https://nuxt.com/modules/lottie/)  
 > > **`Officially listed on nuxt.com/modules`**
 >
@@ -20,6 +23,13 @@
 >A countdown module for multi purpose usage written for Nuxt 
 >  
 >[![npm version][countdown-npm-version-src]][countdown-npm-version-href] [![npm downloads][countdown-npm-downloads-src]][countdown-npm-downloads-href]
+>
+> > ### [Nuxt TradingView:](https://nuxt.com/modules/tradingview/)  
+> > **`Officially listed on nuxt.com/modules`**
+>
+>  [![npm version][tradingview-npm-version-src]][tradingview-npm-version-href] [![npm downloads][tradingview-npm-downloads-src]][tradingview-npm-downloads-href]
+>  
+> Use the TradingView Widgets in your Nuxt application    
 
 
 
